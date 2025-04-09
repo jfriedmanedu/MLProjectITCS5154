@@ -1,7 +1,7 @@
 # MLProjectITCS5154
 This is a prviate repository for Jacob Friedman's ML Individual Project for ITCS 5154
 
-You can explore my full results from each phase of the experiment in technical detail by download a ZIP file of my repository here: https://drive.google.com/file/d/1LzDU15YS36MZt0P-WAzUiccBF0tlqe2t/view?usp=sharing
+You can explore my full results from each phase of the experiment in technical detail by download a ZIP file of my repository here: https://drive.google.com/file/d/15ym4Enm1yh-WPASdGUdbTEd6cN_zOt9k/view?usp=sharing
 
 ## Project Goal 
 #### The goal of this project is to reimplement the agent used in the paper **"A Context-Aware Approach for Detecting Worth-Checking Claims in Political Debates"** but instead of using the original implementation we are going to try an RNN implementation and a Transformer implementation. We will utilize Grid Search to find the best hyperparameters for our models. We will follow the same pre-processing steps and utilize the same data for comparative accuracy.
